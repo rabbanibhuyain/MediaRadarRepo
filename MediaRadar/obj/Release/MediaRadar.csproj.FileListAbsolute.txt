@@ -1,0 +1,79 @@
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\csc.exe
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\vbc.exe
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\VBCSCompiler.exe
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\MediaRadar.dll.config
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\MediaRadar.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\MediaRadar.pdb
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\Antlr3.Runtime.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\Newtonsoft.Json.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.Helpers.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.Mvc.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.Optimization.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.Razor.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.WebPages.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.WebPages.Razor.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\WebGrease.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.Helpers.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.Mvc.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.Optimization.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.Razor.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.WebPages.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\System.Web.WebPages.Razor.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\Antlr3.Runtime.pdb
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\bin\Newtonsoft.Json.xml
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\obj\Release\MediaRadar.dll
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\obj\Release\MediaRadar.pdb
+C:\Users\BruteForce\documents\visual studio 2015\Projects\MediaRadar\MediaRadar\obj\Release\MediaRadar.csprojResolveAssemblyReference.cache
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\csc.exe
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\System.Collections.Immutable.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\System.Reflection.Metadata.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\vbc.exe
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\VBCSCompiler.exe
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\roslyn\VBCSCompiler.exe.config
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\MediaRadar.dll.config
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\MediaRadar.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\MediaRadar.pdb
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\Antlr3.Runtime.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\Microsoft.Web.Infrastructure.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\Newtonsoft.Json.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.Helpers.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.Mvc.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.Optimization.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.Razor.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.WebPages.Deployment.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.WebPages.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.WebPages.Razor.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\WebGrease.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.Helpers.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.Mvc.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.Optimization.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.Razor.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.WebPages.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.WebPages.Deployment.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\System.Web.WebPages.Razor.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\Antlr3.Runtime.pdb
+F:\Dump\GitRepo\MediaRadar\MediaRadar\bin\Newtonsoft.Json.xml
+F:\Dump\GitRepo\MediaRadar\MediaRadar\obj\Release\MediaRadar.dll
+F:\Dump\GitRepo\MediaRadar\MediaRadar\obj\Release\MediaRadar.pdb

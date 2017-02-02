@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2>Increase your Ad sales anytime, anywhere!</h2>
+    <p class="lead">Get the cross-media ad sales insights you need to determine who to talk to, when you should reach out, and what you need to say to win every prospect’s business..</p>
+    <p><a href="http://mediaradar.com/" class="btn btn-primary btn-lg">Learn more about Media Radar&raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>Full list of the ads</h2>
+        <p>
+            A full list of the ads, including all object data (AdId, Brand Id and Name, NumPages, and Position). NumPages refers to how many pages the ad takes up in a magazine (0.5 would be a half-page ad) and Position is a string that is either “Page” or “Cover,” describing where in the magazine the ad ran. This list should be sortable and paged. You may use client-side or server-side code to accomplish this. Default sort should be by brand name alphabetically..
+        </p>
+        <p><a class="btn btn-danger" href="@Url.Action("FullList", "AdData")">Full Add List &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h2>List of ads which appeared in the Cover</h2>
+        <p>A list of ads which appeared in the “Cover” position and also had at least 50% page coverage. This list should also be sortable and paged, and sorted by brand name alphabetically</p>
+        <p><a class="btn btn-danger" href="@Url.Action("ListOfAdsForCover", "AdData")">Ads in Cover &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h2>Top 5 Ads by page coverage </h2>
+        <p>The top five ads by page coverage amount, distinct by brand. Sort by page coverage amount (descending), then brand name alphabetically.</p>
+        <p><a class="btn btn-danger" href="@Url.Action("TopAdsByPageCoverage", "AdData")">Top 5 Ads &raquo;</a></p>
+    </div>
+    <div class="col-md-3">
+        <h2>Top 5 Brands by page coverage</h2>
+        <p>The top five brands by page coverage amount. Keep in mind that a single brand may run multiple ads. Also sorted by page coverage amount (descending), then brand name alphabetically.</p>
+        <p><a class="btn btn-danger" href="@Url.Action("TopBrandByPageCoverage", "AdData")">Top 5 Brand &raquo;</a></p>
+    </div>
+</div>

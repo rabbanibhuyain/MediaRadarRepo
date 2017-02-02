@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Media Radar</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a href="@Url.Action("Index", "Home")">
+                    <img src="~/Content/images/logo.png" alt="Company logo" width="200" height="30" />
+                </a>
+
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Full Ads List", "FullList", "AdData")</li>
+                    <li>@Html.ActionLink("Ads List By Cover", "ListOfAdsForCover", "AdData")</li>
+                    <li>@Html.ActionLink("Top 5 Ads", "TopAdsByPageCoverage", "AdData")</li>
+                    <li>@Html.ActionLink("Top 5 Brands", "TopBrandByPageCoverage", "AdData")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li> 
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Media Radar| Rabbani Bhuyain</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jqueryLib")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
